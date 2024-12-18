@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subrata Lodh 
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning MongoDB, Node.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
